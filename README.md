@@ -2,30 +2,30 @@
 
 🚀 Estudiando **Desarrollo Web Full Stack** en [ConquerBlocks](https://conquerblocks.com/)
 
-Passionate por crear soluciones innovadoras y aprender nuevas tecnologías.
+Actualmente en formacion para obtener mi primera oportunidad laboral.
 
 ---
 
 
 ### 🏁 Prework: Fundamentos y Herramientas
 
-Estos son los temas y herramientas que he trabajado durante la etapa de **Prework** en mi formación como desarrollador web full stack:
+Temas y herramientas que se imparten en la etapa de **Prework**. ✅ = Certificado obtenido:
 
 | Área / Tema                | Herramientas / Conceptos |
 |----------------------------|-------------------------|
 | **Bases de la informática**| Algoritmos, lógica, hardware/software |
-| **Pseudocódigo**           | Resolución de problemas, lógica estructurada |
+| **Pseudocódigo**           | ✅ Resolución de problemas, lógica estructurada |
 | **Linux y la terminal**    | Comandos básicos, navegación, bash/zsh |
-| **Python**                 | Sintaxis, programación estructurada |
-| **Python avanzado**        | Programación orientada a objetos, módulos, manejo de errores |
-| **Principios SOLID**       | Buenas prácticas, diseño de software |
+| **Python**                 | ✅ Sintaxis, programación estructurada |
+| **Python avanzado**        | ✅ Programación orientada a objetos, módulos, manejo de errores |
+| **Principios SOLID**       | ✅ Buenas prácticas, diseño de software |
 | **Git y GitHub**           | Control de versiones, colaboración, flujos de trabajo |
 
 ---
 
 ### 🎨 Frontend
 
-Tecnologías y herramientas que domino en el área de frontend:
+Tecnologías y herramientas impartidas en el curso de frontend. ✅ = Certificado obtenido:
 
 | Lenguaje / Framework | Logo |
 |---------------------|-------|
@@ -40,7 +40,7 @@ Tecnologías y herramientas que domino en el área de frontend:
 
 ### 🖥️ Backend
 
-Tecnologías y herramientas que domino en el área de backend:
+Tecnologías y herramientas impartidas en el curso de backend. ✅ = Certificado obtenido:
 
 | Herramienta / Concepto | Logo |
 |-----------------------|-------|
