@@ -19,7 +19,7 @@ Temas y herramientas que se imparten en la etapa de **Prework**. ✅ = Certifica
 | **Python**                 | ✅ Sintaxis, programación estructurada |
 | **Python avanzado**        | ✅ Programación orientada a objetos, módulos, manejo de errores |
 | **Principios SOLID**       | ✅ Buenas prácticas, diseño de software |
-| **Git y GitHub**           | Control de versiones, colaboración, flujos de trabajo |
+| **Git y GitHub**           | ✅ Control de versiones, colaboración, flujos de trabajo |
 
 ---
 
@@ -69,6 +69,7 @@ Tecnologías y herramientas impartidas en el curso de backend. ✅ = Certificado
 | 🏆 Python Inicial | [Verificar](https://academia.conquerblocks.com/certificate/share/6221e4d2-b5d7-4079-a630-32eec1c02ad7/) |
 | 🏆 Python Avanzado | [Verificar](https://academia.conquerblocks.com/certificate/share/a0af3fe1-9e4f-43b9-8410-a1d7636de2f3/) |
 | 🏆 SOLID Evaluación | [Verificar](https://academia.conquerblocks.com/certificate/share/3064130b-e72e-4ca9-ab92-3e48485f549c/) |
+| 🏆 Git Evaluación | [Verificar](https://academia.conquerblocks.com/certificate/share/36777007-5401-45b9-82cf-31204db5704b/) |
 
 > ✅ **Verificado**: Máster en Desarrollo Web Full Stack — ConquerBlocks
 
