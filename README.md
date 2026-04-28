@@ -1,8 +1,8 @@
 ## � Victor Jordan
 
-🚀 Estudiando **Desarrollo Web Full Stack** en [ConquerBlocks](https://conquerblocks.com/)
+🚀 En formación de **Desarrollo Web Full Stack** en [ConquerBlocks](https://conquerblocks.com/)
 
-Actualmente en formación para obtener mi primera oportunidad laboral.
+Buscando mi primera oportunidad laboral.
 
 
 ---
