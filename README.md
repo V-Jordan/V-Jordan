@@ -9,13 +9,13 @@ Buscando mi primera oportunidad laboral.
 
 ### 🏁 Prework: Fundamentos y Herramientas
 
-Temas y herramientas que se imparten en la etapa de **Prework**. ✅ = Certificado obtenido:
+Temas y herramientas que se imparten en la etapa de **Prework**. (✅ = Certificado obtenido)
 
 | Área / Tema                | Herramientas / Conceptos |
 |----------------------------|-------------------------|
 | **Bases de la informática**| Algoritmos, lógica, hardware/software |
 | **Pseudocódigo**           | ✅ Resolución de problemas, lógica estructurada |
-| **Linux y la terminal**    | Comandos básicos, navegación, bash/zsh |
+| **Linux y la terminal**    | ✅ Comandos básicos, navegación, bash/zsh |
 | **Python**                 | ✅ Sintaxis, programación estructurada |
 | **Python avanzado**        | ✅ Programación orientada a objetos, módulos, manejo de errores |
 | **Principios SOLID**       | ✅ Buenas prácticas, diseño de software |
@@ -25,7 +25,7 @@ Temas y herramientas que se imparten en la etapa de **Prework**. ✅ = Certifica
 
 ### 🎨 Frontend
 
-Tecnologías y herramientas impartidas en el curso de frontend. ✅ = Certificado obtenido:
+Tecnologías y herramientas que se imparten en el curso de frontend. (✅ = Certificado obtenido)
 
 | Lenguaje / Framework | Logo |
 |---------------------|-------|
@@ -40,7 +40,7 @@ Tecnologías y herramientas impartidas en el curso de frontend. ✅ = Certificad
 
 ### 🖥️ Backend
 
-Tecnologías y herramientas impartidas en el curso de backend. ✅ = Certificado obtenido:
+Tecnologías y herramientas que se imparten en el curso de backend. (✅ = Certificado obtenido)
 
 | Herramienta / Concepto | Logo |
 |-----------------------|-------|
@@ -70,6 +70,7 @@ Tecnologías y herramientas impartidas en el curso de backend. ✅ = Certificado
 | 🏆 Python Avanzado | [Verificar](https://academia.conquerblocks.com/certificate/share/a0af3fe1-9e4f-43b9-8410-a1d7636de2f3/) |
 | 🏆 SOLID Evaluación | [Verificar](https://academia.conquerblocks.com/certificate/share/3064130b-e72e-4ca9-ab92-3e48485f549c/) |
 | 🏆 Git Evaluación | [Verificar](https://academia.conquerblocks.com/certificate/share/36777007-5401-45b9-82cf-31204db5704b/) |
+| 🏆 Linux y la Terminal | [Verificar](https://academia.conquerblocks.com/certificate/share/79c726ec-6d63-436f-85bf-9b885aefca33/) |
 
 > ✅ **Verificado**: Máster en Desarrollo Web Full Stack — ConquerBlocks
 
