@@ -67,6 +67,7 @@ Tecnologías y herramientas que se imparten en el curso de backend. (✅ = Certi
 |-------|-------------|
 | 🏆 Pseudocódigo | [Verificar](https://academia.conquerblocks.com/certificate/share/7b9d5018-ffbf-450b-a7a4-a350f6a118cc/) |
 | 🏆 HTML | [Verificar](https://academia.conquerblocks.com/certificate/share/90fdeddf-b3a8-47ce-b7fb-17ab7cfd872a/) |
+| 🏆 CSS Evaluación 1 (selectores) | [Verificar](https://academia.conquerblocks.com/certificate/share/b06c4b0e-7c88-4614-86d3-0cc63647a05f/) |
 | 🏆 Python Inicial | [Verificar](https://academia.conquerblocks.com/certificate/share/6221e4d2-b5d7-4079-a630-32eec1c02ad7/) |
 | 🏆 Python Avanzado | [Verificar](https://academia.conquerblocks.com/certificate/share/a0af3fe1-9e4f-43b9-8410-a1d7636de2f3/) |
 | 🏆 SOLID Evaluación | [Verificar](https://academia.conquerblocks.com/certificate/share/3064130b-e72e-4ca9-ab92-3e48485f549c/) |
